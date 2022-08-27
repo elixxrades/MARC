@@ -1,6 +1,7 @@
 {
-  "name":"@elixxrades/MARC",
+  "name":"@elixxrades/marc",
   "main": "build/marc.js",
+  "version": "1.0.0",
   "devDependencies": {
     "@types/node": "^18.7.13"
   },

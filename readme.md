@@ -2,6 +2,8 @@
 
 * Marc is a functional logger.
 
+* [go npm](https://www.npmjs.com/package/@elixxrades/marc)
+
 * Checkout test.js or test.ts
 
 * Example Code: 
