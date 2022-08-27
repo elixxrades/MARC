@@ -46,7 +46,7 @@ export default class MARC {
         textColor: chalk.bold
       }, {
         name: "ERROR",
-        hexColor: chalk.red,
+        hexColor: chalk.bgRed,
         textSequence: "\\/%N - %TP\\/ > \"%T\" > %D",
         textColor: chalk.bold
       },
